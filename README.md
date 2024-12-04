@@ -1,5 +1,8 @@
 # 简介
 这是一个带有es、nodemer、prettier和dotenv模块的最小TypeScript starter
+
+ts练习项目
+
 # 开始
 - 单击 **运行** 按钮启动程序。
 
